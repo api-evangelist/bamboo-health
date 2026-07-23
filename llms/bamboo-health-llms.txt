@@ -1,0 +1,27 @@
+# Bamboo Health
+
+> Bamboo Health (formerly Appriss Health + PatientPing) is a healthcare technology company delivering Real-Time Care Intelligence across the physical and behavioral health continuum. It powers the nation's largest care-collaboration network — PDMP prescription monitoring, care coordination, and behavioral healthcare navigation — connecting health systems, health plans, pharmacies, and state agencies. No public developer API is published; integrations are delivered via EHR workflows and partner/state programs.
+
+## Company
+- Website: https://bamboohealth.com/
+- About: https://bamboohealth.com/about-us/
+- News & Resources (blog): https://bamboohealth.com/news-resources/
+- Customer Support: https://bamboohealth.com/customer-support/
+- Contact: https://bamboohealth.com/contact/
+
+## Solutions
+- Bamboo Bridge (behavioral healthcare navigation): https://bamboohealth.com/solutions/bamboo-bridge/
+- OpenBeds (behavioral health referral network): https://bamboohealth.com/solutions/openbeds/
+- Pings (care coordination / real-time notifications): https://bamboohealth.com/solutions/pings/
+- NarxCare (analytics for controlled-substance risk): https://bamboohealth.com/solutions/narxcare/
+- PMP AWARxE (state PDMP platform): https://bamboohealth.com/solutions/pmp-awarxe/
+
+## Trust & Compliance
+- Trust Center: https://trust.bamboohealth.com/
+- Privacy Policy: https://bamboohealth.com/privacy-policy/
+- Terms & Conditions: https://bamboohealth.com/terms-and-conditions-of-use/
+- Certifications: SOC 2 Type II, HITRUST CSF, HIPAA, NIST 800-53
+
+## Repo artifacts
+- Trust center: security/bamboo-health-trust-center.yml
+- Domain security probe: security/bamboo-health-domain-security.yml

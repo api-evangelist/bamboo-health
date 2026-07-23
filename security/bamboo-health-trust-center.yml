@@ -1,0 +1,24 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://trust.bamboohealth.com/
+url: https://trust.bamboohealth.com/
+certifications:
+- SOC 2 Type II
+- HITRUST CSF
+- HIPAA
+- NIST 800-53
+security_contact: Benjamin Howell, VP Information Security
+documents:
+- SOC 2 Type II Report
+- HITRUST CSF Validated Assessment
+- HITRUST interim letter (approved customers)
+evidence:
+- source: https://trust.bamboohealth.com/
+  keywords:
+  - soc 2 type ii
+  - hitrust csf
+  - hipaa
+  - nist 800-53
+  - trust center
+  - powered by conveyor

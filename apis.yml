@@ -1,9 +1,30 @@
 aid: bamboo-health
 name: Bamboo Health
-description: 'Bamboo Health is a company surfaced as a portfolio company of insight-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Bamboo Health (formerly Appriss Health + PatientPing) is a healthcare technology
+  company delivering Real-Time Care Intelligence across the physical and behavioral
+  health continuum. It operates one of the nation's largest care-collaboration
+  networks, connecting health systems, health plans, pharmacies, and state agencies
+  through prescription drug monitoring (PDMP), care coordination, and behavioral
+  healthcare navigation. Flagship solutions include Bamboo Bridge, OpenBeds, Pings,
+  NarxCare, and the PMP AWARxE state monitoring platform. Backed by Insight Partners,
+  the company supports over a billion patient encounters annually. Bamboo Health
+  does not publish a public developer API; integrations are delivered through EHR
+  workflows and partner/state programs. Security posture is documented in a public
+  Trust Center (SOC 2 Type II, HITRUST CSF, HIPAA, NIST 800-53).
 url: https://raw.githubusercontent.com/api-evangelist/bamboo-health/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://bamboohealth.com/wp-content/uploads/2025/08/bamboo_KO_green_text.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +33,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Healthcare
+- Care Coordination
+- Behavioral Health
+- Prescription Drug Monitoring
+- PDMP
+- Health IT
+- Interoperability
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,24 @@ maintainers:
 common:
 - type: Website
   url: https://bamboohealth.com/
+- type: Support
+  url: https://bamboohealth.com/customer-support/
+- type: Blog
+  url: https://bamboohealth.com/news-resources/
+- type: PrivacyPolicy
+  url: https://bamboohealth.com/privacy-policy/
+- type: TermsOfService
+  url: https://bamboohealth.com/terms-and-conditions-of-use/
+- type: TrustCenter
+  url: https://trust.bamboohealth.com/
+- type: Compliance
+  url: https://trust.bamboohealth.com/
+- type: DomainSecurity
+  url: security/bamboo-health-domain-security.yml
+- type: LLMsTxt
+  url: llms/bamboo-health-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
