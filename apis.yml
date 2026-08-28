@@ -13,6 +13,17 @@ description: >-
   workflows and partner/state programs. Security posture is documented in a public
   Trust Center (SOC 2 Type II, HITRUST CSF, HIPAA, NIST 800-53).
 url: https://raw.githubusercontent.com/api-evangelist/bamboo-health/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
